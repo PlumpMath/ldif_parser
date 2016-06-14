@@ -1,0 +1,10 @@
+# compiled python modules
+*.pyc
+__pycache__
+
+# setuptools
+/dist/
+/build/
+
+# Python egg metadata 
+/*.egg-info

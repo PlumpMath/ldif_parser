@@ -1,0 +1,80 @@
+dn: cn=test_grp_dev_usr,ou=people,ou=division,ou=company
+    objectClass: top
+    objectClass: nisNetgroup
+    nisNetgroupTriple: (,gygfBdz5,)
+    nisNetgroupTriple: (,Wl9wfgT5,)
+    nisNetgroupTriple: (,IBbjAjmg,)
+    nisNetgroupTriple: (,fSPguBWJ,)
+    nisNetgroupTriple: (,dZXQO43L,)
+    nisNetgroupTriple: (,ks2321kl,)
+    nisNetgroupTriple: (,kXArLSOq,)
+    nisNetgroupTriple: (,uuru9uwu,)
+    nisNetgroupTriple: (,p7SJq5np,)
+    nisNetgroupTriple: (,arlDIKZG,)
+    nisNetgroupTriple: (,GrTq8OKr,)
+    description: My group DEV users
+    cn: test_grp_dev_usr
+ 
+dn: cn=test_grp_dev_ops,ou=people,ou=division,ou=company
+    objectClass: top
+    objectClass: nisNetgroup
+    nisNetgroupTriple: (,o2H6ylR9,)
+    nisNetgroupTriple: (,JEH8VgRe,)
+    nisNetgroupTriple: (,f9Y0ifRy,)
+    nisNetgroupTriple: (,fSPguBWJ,)
+    nisNetgroupTriple: (,uuru9uwu,)
+    nisNetgroupTriple: (,Qe6twFfc,)
+    nisNetgroupTriple: (,ks2321kl,)
+    nisNetgroupTriple: (,kXArLSOq,)
+    nisNetgroupTriple: (,HknPYlTo,)
+    nisNetgroupTriple: (,p7SJq5np,)
+    nisNetgroupTriple: (,oswx68sc,)
+    nisNetgroupTriple: (,GrTq8OKr,)
+    nisNetgroupTriple: (,Dw9Cv6HT,)
+    nisNetgroupTriple: (,IFafPidd,)
+    nisNetgroupTriple: (,kwf5hmeX,)
+    nisNetgroupTriple: (,nlum1YcR,)
+    nisNetgroupTriple: (,EW7qGhHH,)
+    nisNetgroupTriple: (,d115mawh,)
+    nisNetgroupTriple: (,JA8NFms6,)
+    nisNetgroupTriple: (,HQ5XRo5B,)
+    nisNetgroupTriple: (,cAIGPb88,)
+    nisNetgroupTriple: (,v6VR2Ylw,)
+    nisNetgroupTriple: (,Z1UkjLLh,)
+    description: My group DEV operators
+    cn: test_grp_dev_ops
+
+dn: cn=test_grp_sit_usr,ou=people,ou=division,ou=company
+    objectClass: top
+    objectClass: nisNetgroup
+    nisNetgroupTriple: (,m88xYxLW,)
+    nisNetgroupTriple: (,LnExeN7L,)
+    nisNetgroupTriple: (,URywAHxt,)
+    nisNetgroupTriple: (,DWvlSA6t,)
+    nisNetgroupTriple: (,dFTWnJPN,)
+    nisNetgroupTriple: (,Y3jNKdJ3,)
+    nisNetgroupTriple: (,jh0cXXYx,)
+    nisNetgroupTriple: (,rgscQONl,)
+    nisNetgroupTriple: (,knDKWeDf,)
+    nisNetgroupTriple: (,CvF5Va9i,)
+    nisNetgroupTriple: (,Cgurpmew,)
+    nisNetgroupTriple: (,PD8Vr1hW,)
+    nisNetgroupTriple: (,uuru9uwu,)
+    nisNetgroupTriple: (,LHrtXjlr,)
+    nisNetgroupTriple: (,RzDgUKoX,)
+    nisNetgroupTriple: (,ZATS6Nxq,)
+    nisNetgroupTriple: (,RwHMqvoP,)
+    nisNetgroupTriple: (,ZVnFkLkH,)
+    nisNetgroupTriple: (,RQqY8Kyy,)
+    nisNetgroupTriple: (,J6tWKYv8,)
+    nisNetgroupTriple: (,mWSNKXws,)
+    nisNetgroupTriple: (,E1Y7cM1D,)
+    nisNetgroupTriple: (,zzhywSJ9,)
+    nisNetgroupTriple: (,FhkBp6Ho,)
+    nisNetgroupTriple: (,l08knopv,)
+    nisNetgroupTriple: (,yXvXq2q3,)
+    nisNetgroupTriple: (,DwAU9csQ,)
+    nisNetgroupTriple: (,aER6X4Cj,)
+    nisNetgroupTriple: (,of2PLgIm,)
+    description: My group SIT users
+    cn: test_grp_sit_usr
